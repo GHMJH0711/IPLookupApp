@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="95de0354dbd47810964dce4e1396196c" sys_domain="global" table="x_221895_iplookup_ipaddressinfo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-19 19:29:46</sys_created_on>
+            <sys_id>ddde8354dbd47810964dce4e139619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_221895_iplookup_ipaddressinfo" sys_domain="global" view="Default view">95de0354dbd47810964dce4e1396196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-19 19:29:46</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-19 19:29:46</sys_created_on>
+            <sys_id>d5de8354dbd47810964dce4e139619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_221895_iplookup_ipaddressinfo" sys_domain="global" view="Default view">95de0354dbd47810964dce4e1396196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-19 19:29:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-19 19:29:46</sys_created_on>
+            <sys_id>59de8354dbd47810964dce4e139619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_221895_iplookup_ipaddressinfo" sys_domain="global" view="Default view">95de0354dbd47810964dce4e1396196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-19 19:29:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-19 19:29:46</sys_created_on>
+            <sys_id>d9de8354dbd47810964dce4e139619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_221895_iplookup_ipaddressinfo" sys_domain="global" view="Default view">95de0354dbd47810964dce4e1396196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-19 19:29:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-19 19:29:46</sys_created_on>
+            <sys_id>5dde8354dbd47810964dce4e139619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_221895_iplookup_ipaddressinfo" sys_domain="global" view="Default view">95de0354dbd47810964dce4e1396196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-19 19:29:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_221895_iplookup_ipaddressinfo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-19 19:29:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95de0354dbd47810964dce4e1396196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_221895_iplookup_ipaddressinfo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPLookup" source="x_221895_iplookup">0e319f9bdb447410964dce4e139619bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">0e319f9bdb447410964dce4e139619bc</sys_scope>
+            <sys_update_name>sys_ui_section_95de0354dbd47810964dce4e1396196c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-19 19:29:46</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
